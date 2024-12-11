@@ -31,7 +31,8 @@ To run this project locally, follow these steps:
    ```bash
    composer install
 4. Configure the .env file and update database.php file:
-    '''bash
+   
+    ```bash
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
@@ -41,10 +42,11 @@ To run this project locally, follow these steps:
     
     'database' => env('DB_DATABASE', 'insurance_company')
     ```
-6. Run the migration:
+      
+5. Run the migration:
    ```bash
    php artisan migrate
-7. Start the development server
+6. Start the development server
    ```bash
    php artisan serve
    
