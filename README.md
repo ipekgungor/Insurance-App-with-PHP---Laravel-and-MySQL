@@ -4,10 +4,10 @@ This project is a web-based Insurance Management System developed with Laravel, 
 
 ## Features
 
--**Policy Listing:** All insurance policies can be viewed in a table, including detailed information such as name, description, company, price, and more.
--**Filter by Type:** Policies can be filtered based on their type.
--**Company View:** Users can view insurance policies offered by a specific company.
--**Policy Detail:** Users can access detailed information about a specific policy, including its coverage, terms, and benefits.
+- **Policy Listing:** All insurance policies can be viewed in a table, including detailed information such as name, description, company, price, and more.
+- **Filter by Type:** Policies can be filtered based on their type.
+- **Company View:** Users can view insurance policies offered by a specific company.
+- **Policy Detail:** Users can access detailed information about a specific policy, including its coverage, terms, and benefits.
 
 ## Requirements
 
