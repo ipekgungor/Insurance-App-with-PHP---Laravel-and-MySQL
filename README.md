@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=insurance_db
+    DB_DATABASE=insurance_company
     DB_USERNAME=root
     DB_PASSWORD=password
     
