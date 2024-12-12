@@ -43,10 +43,16 @@ To run this project locally, follow these steps:
     'database' => env('DB_DATABASE', 'insurance_company')
     ```
       
-5. Run the migration:
+6. Make migration
+   ```bash
+    php artisan make:migration policies
+7. Run the migration:
    ```bash
    php artisan migrate
-6. Start the development server
+8. Generate key
+   ```bash
+   php artisan key:generate 
+8. Start the development server
    ```bash
    php artisan serve
    
