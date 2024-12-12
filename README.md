@@ -45,7 +45,7 @@ To run this project locally, follow these steps:
       
 6. Make migration
    ```bash
-    php artisan make:migration policies
+    php artisan make:migration create_policies_table.
 7. Run the migration:
    ```bash
    php artisan migrate
